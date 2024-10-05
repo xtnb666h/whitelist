@@ -1,9 +1,6 @@
 return {
   ["123fa98"] = true,
-  ["AAAAAAA_r7"] = true,
   ["bnm87906"] = true,
-  ["AAAAAAAAA_r9"] = true,
-  ["AAAAAAAAAA_r10"] = true,
   ["hkdiwhdknzbs"] = true,
   ["shamei88"] = true,
   ["fzbfzfxbz"] = true,
@@ -13,7 +10,6 @@ return {
   ["2009612qwe"] = true,
   ["oyzq88"] = true,
   ["kmaz165"] = true,
-  ["longshu0"] = true,
   ["lzyksff"] = true,
   ["lzy12345gg"] = true,
   ["fzbfzfxbz"] = true,
@@ -36,6 +32,4 @@ return {
   ["guojw2"] = true,
   ["popyinchaoji"] = true,
   ["qazplmwer02"] = true,
-  ["Dev001094"] = true,
-  ["longshu0"] = true,
 }
